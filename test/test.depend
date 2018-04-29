@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523789023 source:f:\codeblocks\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"nnn.h"
+
+1523707754 source:f:\codeblocks\test\nnn.c
+	<stdlib.h>
+	<stdio.h>
+	"nnn.h"
+
+1523707096 f:\codeblocks\test\nnn.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1524056050 source:e:\codeblocks\chapter11.0demo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"LandOwnerV1.hpp"
+	"LandOwnerV3.h"
+	"LandOwnerV4.h"
+
+1524051549 e:\codeblocks\chapter11.0demo\include\landownerv1.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524052478 source:e:\codeblocks\chapter11.0demo\landownerv2.cpp
+
+1524052878 e:\codeblocks\chapter11.0demo\include\landownerv3.h
+	<iostream>
+
+1524052781 source:e:\codeblocks\chapter11.0demo\src\landownerv3.cpp
+	"LandOwnerV3.h"
+
+1524056747 e:\codeblocks\chapter11.0demo\include\landownerv4.h
+	<iostream>
+
+1524056747 source:e:\codeblocks\chapter11.0demo\src\landownerv4.cpp
+	"LandOwnerV4.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523794013 source:f:\codeblocks\jianghu1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"JiangHu.h"
+
+1523793991 source:f:\codeblocks\jianghu1.1\jianghu1.1.c
+	<stdio.h>
+	<stdlib.h>
+	"JiangHu.h"
+
+1523797388 f:\codeblocks\jianghu1.1\jianghu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

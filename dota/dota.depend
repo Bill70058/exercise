@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1523687132 source:f:\codeblocks\dota\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hero.h"
+	"Account.h"
+
+1523684537 source:f:\codeblocks\dota\hero.c
+	<stdio.h>
+	<stdlib.h>
+	"Hero.h"
+	<conio.h>
+
+1523683502 f:\codeblocks\dota\hero.h
+
+1523701014 source:f:\codeblocks\dota\account.c
+	<stdio.h>
+	<stdlib.h>
+	"Account.h"
+
+1523700989 f:\codeblocks\dota\account.h
+	<stdio.h>
+	<stdlib.h>
+

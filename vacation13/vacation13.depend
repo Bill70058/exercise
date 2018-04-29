@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522112095 source:f:\codeblocks\vacation13\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

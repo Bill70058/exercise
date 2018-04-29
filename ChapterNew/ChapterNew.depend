@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1523418430 source:f:\codeblocks\chapternew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1523369725 source:f:\codeblocks\chapternew\array.c
+	<stdio.h>
+	<stdlib.h>
+
+1523369363 source:f:\codeblocks\chapternew\funtion.c
+	<stdio.h>
+	<stdlib.h>
+
+1523373841 source:f:\codeblocks\chapternew\array_length_change.c
+	<stdio.h>
+	<stdlib.h>
+
+1523418404 source:f:\codeblocks\chapternew\pointer.c
+	<stdio.h>
+	<stdlib.h>
+

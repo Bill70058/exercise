@@ -1,0 +1,7 @@
+#ifndef STORE_H_INCLUDED
+#define STORE_H_INCLUDED
+
+
+
+
+#endif // STORE_H_INCLUDED

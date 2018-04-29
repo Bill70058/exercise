@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1521036729 source:f:\codeblocks\snake_online\main.c
+	<stdio.h>
+	<stdlib.h>
+	"WinAplHelper.h"
+	"panel.h"
+	<windows.h>
+	<conio.h>
+	"control.h"
+
+1520852651 source:f:\codeblocks\snake_online\winaplhelper.c
+	"WinAplHelper.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1520852610 f:\codeblocks\snake_online\winaplhelper.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1520923096 source:f:\codeblocks\snake_online\panel.c
+	"panel.h"
+	<stdio.h>
+	<stdlib.h>
+
+1520922976 f:\codeblocks\snake_online\panel.h
+	"WinAplHelper.h"
+
+1521034997 source:f:\codeblocks\snake_online\controlpanel.c
+	"ControlPanel.h"
+	<stdio.h>
+	<stdlib.h>
+
+1521033887 f:\codeblocks\snake_online\controlpanel.h
+	<stdio.h>
+	<stdlib.h>
+	"panel.h"
+
